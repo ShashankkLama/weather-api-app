@@ -1,0 +1,1 @@
+A simple Weather App that fetches live weather data using an API and displays it in a user-friendly format. The Weather App will fetch real-time weather data from the OpenWeatherMap API. 🔹 Users will enter a city name, and the app will return: ✅ City Name ✅ Temperature (°C or °F) ✅ Weather Condition (Sunny, Cloudy, etc.) ✅ Humidity & Wind Speed
